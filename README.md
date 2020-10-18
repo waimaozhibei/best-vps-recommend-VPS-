@@ -19,7 +19,7 @@ Vultr作为全球最大的游戏主机提供商背景之一，上线之后以高
 ### 小白点评
 Vultr是云服务器商家的后期之秀，便捷的后台管理控制面板，免费的快照备份服务，套餐价格实惠，全球机房可选。这是一款很适合新手入门学习的VPS选择。[Vultr优惠直达通道](https://www.vultr.com/?ref=7398226)
 
-##HostWinds-免费更换IP的绝佳选择
+## HostWinds-免费更换IP的绝佳选择
 成立于2010年的HostWinds属于云服务器行业的后起之秀，目前提供各类基于cPanel的Linux和Windows VPS以及独立服务器。Hostwinds目前有美国西雅图，达拉斯和荷兰的阿姆斯特丹三个数据中心，为全球客户提供云计算服务。HostWinds是consumersverdict.com在线媒体集团最新评比出的2019年十大最佳VPS服务提供商。
 > 友情提醒：2019年11月7日更新，Hostwinds VPS主机支持免费更换IP，在实例界面，依次选择Manage IP’s -> Fix ISP Block就可以完成更换。无次数限制。
 ### 小白点评
